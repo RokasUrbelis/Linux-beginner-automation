@@ -15,5 +15,5 @@ git clone https://github.com/RokasUrbelis/primer-automation-script.git
 cd primer-automation-script
 bash primer.sh
 ```
-[![](https://blog.linux-code.com/wp-content/uploads/2018/11/show2.png)]
+![](https://blog.linux-code.com/wp-content/uploads/2018/11/show2.png)
 

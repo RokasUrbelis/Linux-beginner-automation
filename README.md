@@ -1,7 +1,7 @@
 # primer-automation-script
-[![](https://img.shields.io/badge/GNU/Linux-License-blue.svg)](https://www.gnu.org)
+[![](https://img.shields.io/badge/Linux-License-blue.svg)](https://www.gnu.org)
 [![](https://img.shields.io/badge/Begginers-script-brightgreen.svg)](https://blog.linux-code.com/articles/thread-966.html)
-
+[![](https://img.shields.io/github/stars/RokasUrbelis/system_safety_test.svg?label=Stars&style=social)]
 ***兼容Centos、Debian、Mint、Kali、Ubuntu等，目前只完成了部分常用功能，后期遇到的问题我会考虑加上去。***
 #### 运行模式分两种
 * GUI

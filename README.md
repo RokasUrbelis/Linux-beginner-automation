@@ -11,7 +11,9 @@
 >No password
 
 >Due to limited time and energy, I have not tested all the distributions and different versions, but the distribution I mentioned above is ok. The script is also developed for large user group environment, which can only be said to meet most of the environment.
+
 >If you find any Bug using this script, please send me an email, I will fix it and reply you.
+
 _The script functions currently supported are as follows :_
 * 1. Update the source and replace the source
 * 2. Get the IP address, MAC address and external network address of the network card
@@ -24,6 +26,6 @@ git clone https://github.com/RokasUrbelis/primer-automation-script.git
 cd primer-automation-script
 bash primer.sh
 ```
-## Screen
+
 ![](https://blog.linux-code.com/wp-content/uploads/2018/11/show2.png)
 

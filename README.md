@@ -22,8 +22,8 @@ _The script functions currently supported are as follows :_
   
 # RUN:
 ```shell
-git clone https://github.com/RokasUrbelis/primer-automation-script.git
-cd primer-automation-script
+git clone https://github.com/RokasUrbelis/Linux-beginner-automation.git
+cd Linux-beginner-automation
 bash primer.sh
 ```
 

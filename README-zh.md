@@ -19,8 +19,8 @@ _目前支持的脚本功能如下:_
   
 ## 运行:
 ```shell
-git clone https://github.com/RokasUrbelis/primer-automation-script.git
-cd primer-automation-script
+git clone https://github.com/RokasUrbelis/Linux-beginner-automation.git
+cd Linux-beginner-automation
 bash primer.sh
 ```
 ![](https://blog.linux-code.com/wp-content/uploads/2018/11/show2.png)

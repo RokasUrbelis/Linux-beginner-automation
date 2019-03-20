@@ -1,7 +1,7 @@
 # primer-automation-script
 [![](https://img.shields.io/badge/GNU/Linux-License-orange.svg)](https://www.gnu.org)
 [![](https://img.shields.io/badge/Begginers-script-brightgreen.svg)](https://blog.linux-code.com/articles/thread-966.html)
-![](https://img.shields.io/github/stars/RokasUrbelis/primer-automation-script.svg?label=Stars&style=social)
+![](https://img.shields.io/github/stars/Acoustroal/Linux-beginner-automation.svg?label=Stars&style=social)
 
 ***Compatible with Centos/Debian/Mint/Kali/Ubuntu,I only completed some common functions before, and I will consider and add problems in the later stage***
 #### There are two modes of operation
